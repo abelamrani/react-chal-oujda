@@ -1,7 +1,7 @@
 export default [
   {
     title: "Home",
-    link: "home"
+    link: "/"
   },
   {
     title: "Contact",
